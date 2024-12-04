@@ -10,3 +10,18 @@ aux_links:
   nav:
   -title: Sistemas Informaticos
   -path: Sisinfo.md
+
+  -title: Programación
+  -path: Pro.md
+
+  -title: Lenguaje de marcas
+  -path: Lenmarc.md
+
+  -title: Entornos de desarrollo
+  -path: Entdes.md
+
+  -title: Base de datos
+  -path: Bd.md
+
+  -title: Ingles
+  -path: Ing.md
