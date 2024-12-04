@@ -1,3 +1,6 @@
 ---
-Ingles
+title: Ingles
+layout: default
+nav_order: 1
+parent: Home
 ---
